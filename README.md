@@ -72,15 +72,15 @@ Customer segmentation is the process of separating customers into groups on the 
 
 The type of segmentation criterion followed would create a big difference in the way the business operates and formulates its strategy. This is elucidated below.
 
-  ```sh
-  1. Zero segments: This means that the company is treating all of its customers in a similar manner. In other words, there is no differentiated strategy and all of the customer base is being reached out by a single mass marketing campaign.
+
+1. Zero segments: This means that the company is treating all of its customers in a similar manner. In other words, there is no differentiated strategy and all of the customer base is being reached out by a single mass marketing campaign.
   
-  2. One segment: This means that the company is targeting a particular group or niche of customers in a tightly defined target market.
+2. One segment: This means that the company is targeting a particular group or niche of customers in a tightly defined target market.
   
-  3. Two or more segments: This means that the company is targeting 2 or more groups within its customer base and is making specific marketing strategies for each segment.
+3. Two or more segments: This means that the company is targeting 2 or more groups within its customer base and is making specific marketing strategies for each segment.
   
-  4. Thousands of segments: This means that the company is treating each customer as unique and is making a customized offer for each one of them.
-  ```
+4. Thousands of segments: This means that the company is treating each customer as unique and is making a customized offer for each one of them.
+
 **Factors for segmentation for a business to consumer marketing company:**
 
 1. **Demographic:** Age, Gender, Education, Ethnicity, Income, Employment, hobbies, etc.
